@@ -3,14 +3,14 @@
 
 
 
-
+<!--
 <div class = "language"align="center"><h1> 🛠Tech Stack🛠 </h1></center>
 
 <div class = "language"align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white""></a> 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"></a>
 </div>
-
+--!>
 
 
 
